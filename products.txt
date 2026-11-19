@@ -1,0 +1,3 @@
+laptop | 52000
+pendrive | 1200
+speakers | 2500
